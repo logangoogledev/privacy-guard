@@ -1,3 +1,4 @@
+importScripts("finder.js", "scanner.js");
 (async function () {
 
     async function getPageText(url) {
